@@ -36,16 +36,6 @@ body{
 	font-size: 30px;
 }
 
-/*.location_1::before{
-	content:"\25CF";
-	font-size: 1.3em;
-}
-
-.location::before{
-	content:"\25CF";
-	font-size: 1.3em;
-}*/
-
 .event__header{
 	line-height: 0;
 	margin-top: 100px;
@@ -68,12 +58,6 @@ body{
 	font-size: 20px;
 	font-weight: 600;
 }
-
-/*.items{
-	display: grid;
-	justify-content: center;
-	margin-top: 300px;
-}*/
 
 .li{
 	font-family: Noto Sans;
